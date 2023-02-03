@@ -1,0 +1,17 @@
+header{
+    font-size: large;
+    display: grid;
+    justify-content:end;
+    padding: 30px;
+    background-color: rgb(255, 255, 255);
+
+    nav ul{
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-end;
+    
+        ul li{
+            list-style-type: none;
+        }
+    }
+}
